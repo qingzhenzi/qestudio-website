@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://qestudio.com/sitemap.xml
+
+Disallow: /api/
+Disallow: /admin/
